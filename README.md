@@ -43,4 +43,10 @@ Pull Requests are welcome! If you have ideas for new features or performance imp
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. Free for use, modification, and distribution.
+
+---
+
 **Developed with ❤️ for those with too many photos and too little time.**
