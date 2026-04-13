@@ -1,8 +1,4 @@
-**Intelligent Photo Deleter** is an ultra-fast and modern software designed for anyone who needs to manage and clean up massive photo libraries (thousands of shots) in a simple, relaxing, and efficient way.
-
-Forget slow or awkward Windows viewers: with a premium-inspired interface and productivity-focused features, organizing your memories has never been more enjoyable.
-
----
+<img width="1186" height="793" alt="preview" src="https://github.com/user-attachments/assets/008e258f-c38a-46ea-8ed0-e6caea464672" />
 
 ## ✨ Exclusive Features
 
